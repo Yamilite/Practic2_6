@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="hi">Привет</string>
+    <string name="start">Поехали</string>
+    <string name="bye">Пока</string>
+    <string name="student">Куранов Нурлан РИБО-05-22</string>
+</resources>
